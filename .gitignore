@@ -1,4 +1,3 @@
-im1.jpg
-im2.jpg
-im3.jfif
-im4.jpg
+*.jpg
+*.jfif
+*.jpeg
